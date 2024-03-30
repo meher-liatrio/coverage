@@ -1,0 +1,16 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "A simple test",
+  "main": "simple.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+  }
+}
